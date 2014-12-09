@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="ca.edumedia.m.tonk0006.shopping" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>tonk0006-shopping</name>
+    <description>
+        A simple Grocery shopping list developed in JavaScript and jQuery.
+    </description>
+    <author email="tonk0006@algonquinlive.com" href="http://nogoproductons.com">
+        Vladimir Tonkonogov - MAD9014
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="Fullscreen" value="true" />
+    <preference name="Orientation" value="portrait" />
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+        <param name="android-package" value="org.apache.cordova.battery-status.Battery-Status" />
+        <param name="android-package" value="org.apache.cordova.network-information.Network-Information" />
+        <param name="android-package" value="org.apache.cordova.geolocation.Geolocation" />
+        <param name="android-package" value="org.apache.cordova.file.File" />
+        <param name="android-package" value="org.apache.cordova.file-transfer.File-Transfer" />
+        <param name="android-package" value="org.apache.cordova.splashscreen.Splashscreen" />
+        <param name="android-package" value="org.apache.cordova.inappbrowser.Inappbrowser" />
+    </feature>
+    <icon src="res/icon.png" />
+</widget>

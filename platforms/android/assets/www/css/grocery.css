@@ -1,0 +1,45 @@
+#header {
+    font-size: 2.4rem;
+    background: #cbe6a9;
+}
+
+.wrapper {
+    background: #bdeeff;
+}
+
+h1 {
+    font-family: unkempt, serif;
+    font-weight: 700;
+    margin-left: 4rem;
+    font-size: 2rem;
+}
+
+button {
+    height: 53px;
+    border-radius: 10px;
+}
+
+#itemList {
+    font-family: walter-turncoat, sans-serif;
+    font-size: 2rem;
+    line-height: 2;
+    margin-left: 4rem;
+    font-weight: 700;
+}
+
+.line {
+	margin: 2rem;
+	border-bottom: 1px solid #000;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.ui-title {
+    margin: 0.6rem 10% 0.8rem !important;
+}
