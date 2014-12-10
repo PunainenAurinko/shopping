@@ -53,6 +53,7 @@ C:\wamp\www\mad9014\shopping\platforms\android\assets\www\js \
 C:\wamp\www\mad9014\shopping\platforms\android\assets\www\plugins \
 C:\wamp\www\mad9014\shopping\platforms\android\assets\www\themes \
 C:\wamp\www\mad9014\shopping\platforms\android\assets\www\css\grocery.css \
+C:\wamp\www\mad9014\shopping\platforms\android\assets\www\css\jquery.mobile-1.4.5.min.css \
 C:\wamp\www\mad9014\shopping\platforms\android\assets\www\css\jquery.mobile.structure-1.4.5.min.css \
 C:\wamp\www\mad9014\shopping\platforms\android\assets\www\js\grocery.js \
 C:\wamp\www\mad9014\shopping\platforms\android\assets\www\js\jquery-1.11.1.min.js \

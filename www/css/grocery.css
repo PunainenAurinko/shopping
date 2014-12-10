@@ -25,6 +25,7 @@ button {
     line-height: 2;
     margin-left: 4rem;
     font-weight: 700;
+    word-wrap: break-word;
 }
 
 .line {
@@ -43,3 +44,21 @@ button {
 .ui-title {
     margin: 0.6rem 10% 0.8rem !important;
 }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (-o-min-device-pixel-ratio: 15/10),
+       only screen and (min-device-pixel-ratio: 1.5) {
+       
+           [data-role=footer] { height: 8rem; }
+           
+           input { height: 8rem; font-size: 2.2rem; }
+           
+           li, h1 { font-size: 2.4rem; }
+           
+           .ui-input-text, .ui-input-search { margin: 0 }
+           
+           #addItem { height: 8rem; }
+                      
+           .ui-navbar li .ui-btn { font-size: 2.2rem; }
+            
+       }
